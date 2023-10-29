@@ -18,3 +18,8 @@ Procrastination with Python
 15. VoiceRecorder.py - it records voice for duration entered via system argument
 16. bracode.py - create a barcode from numeric data.
 17. Current_location.py - it gives current location based on IP address.
+18. web_crawler.py - web crwaler using beautiful soup.
+19. vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
+20. CLoud_file_transfer.py - it generates a link to retrive uploaded (single)file.
+21. Cloud_Multi_Transfer.py - it generates a link to retrive uploaded files.
+22. Secure_password_generator.py - it generates a random combination of secure password.
