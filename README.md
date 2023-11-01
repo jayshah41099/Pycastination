@@ -18,7 +18,7 @@ Procrastination with Python
 15. VoiceRecorder.py - it records voice for duration entered via system argument
 16. bracode.py - create a barcode from numeric data.
 17. Current_location.py - it gives current location based on IP address.
-18. web_crawler.py - web crwaler using beautiful soup.
+18. Flashcard.py - it conerts text file in a form of flash cards.
 19. vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
 20. CLoud_file_transfer.py - it generates a link to retrive uploaded (single)file.
 21. Cloud_Multi_Transfer.py - it generates a link to retrive uploaded files.
@@ -28,3 +28,8 @@ Procrastination with Python
 25. BudgetTracker.py - it allows to add money, spending, monthly subscription and presents a nice balance sheet.
 26. Speech_to_Text.py - it converts speech into text format.
 27. pdf_to_speech.py - it reads out content of the pdf file.
+28. StickyNotes_GUI.py - it converts xlsx file and shows the upcoming tasks in interactive user interface.
+29. StickyNotes.py - it converts xlsx file and shows the upcoming tasks.
+30. Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
+31. Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
+32. LCM.py - it finds out least common number, which is divisible by both entered numbers.
