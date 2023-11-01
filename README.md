@@ -23,3 +23,8 @@ Procrastination with Python
 20. CLoud_file_transfer.py - it generates a link to retrive uploaded (single)file.
 21. Cloud_Multi_Transfer.py - it generates a link to retrive uploaded files.
 22. Secure_password_generator.py - it generates a random combination of secure password.
+23. StopWatch.py - it creates a countdown of seconds like a timer.
+24. Emjoi_to_Text.py - it converts emoji into a text which shows the description of an emoji.
+25. BudgetTracker.py - it allows to add money, spending, monthly subscription and presents a nice balance sheet.
+26. Speech_to_Text.py - it converts speech into text format.
+27. pdf_to_speech.py - it reads out content of the pdf file.
