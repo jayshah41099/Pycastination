@@ -33,3 +33,9 @@ Procrastination with Python
 30. Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
 31. Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
 32. LCM.py - it finds out least common number, which is divisible by both entered numbers.
+33. Roman_to_Decimal.py - it converts roman numbers in decimal.
+34. Handwriting.py - it converts text to handwriting.
+35. FtoC.py - it converts fahrenheit to celsius.
+36. BMI.py - it calculates BMI based on your height (cm) and weight (kg).
+37. DiceRoll.py - it is a dice roll simulator.
+38. 
