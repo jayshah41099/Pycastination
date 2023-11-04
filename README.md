@@ -38,4 +38,12 @@ Procrastination with Python
 35. FtoC.py - it converts fahrenheit to celsius.
 36. BMI.py - it calculates BMI based on your height (cm) and weight (kg).
 37. DiceRoll.py - it is a dice roll simulator.
-38. 
+38. Correct_Spell - it corrects wrong spelling into a correct spelling.
+39. random_card.py - it selects a random card from the deck of 52 cards
+40. Anagram_validator.py - it compares two words if they both have same charcters.
+41. password_authenticator.py - it authenticates the entered password via user based on database entry.
+42. 
+43. 
+44. 
+45. 
+
