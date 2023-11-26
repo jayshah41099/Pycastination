@@ -1,5 +1,3 @@
-
-
 def organizer():
     with open("README.md", "r+") as file:
         lines = file.readlines()

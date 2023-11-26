@@ -47,5 +47,9 @@
  Perfect_number.py - the sum of all possible divisible of the number is equal to number. 1 + 2 + 3 == 6 and 6 is divisible by 123.
  prime_finder.py - it findes the prime numbers smaller than given number.
  Number_game.py - it allows you to guess a number in 3 attempts.
-
+ Password_protected.py - it createes password protected pdf file.
+ Armstrong_Num.py - it is a number whose sum of the powers(= total digits) of its digits equals the number. 153 = 1^3 + 5^3 + 3^3.
+ fibonacci_generator.py - it generates the fibonacci sequence based on first two integers and length of the sequence.
+ factors_generator.py - it generates factors of enterd number.
+ countdown_timer.py - it is a countdown timer and alerts.
 
