@@ -34,59 +34,67 @@
  
 17  Image_Color_Extraction.py - based on pallete count it generates the color pallete from a color used in image.
  
-18  LCM.py - it finds out least common number, which is divisible by both entered numbers.
+18  Insertion_sort.py - it starts the first loop in right direction and second loop will go in left from the chosen point.
  
-19  Lang_Detect_Translate.py - it detects the language other than english and translates into english.
+19  LCM.py - it finds out least common number, which is divisible by both entered numbers.
  
-20  Laptop_notification.py - simple notification to remind you take break "Advanced version reminder app in python directory".
+20  Lang_Detect_Translate.py - it detects the language other than english and translates into english.
  
-21  Organizer.py - it organizes the text file in alphabatical order.
+21  Laptop_notification.py - simple notification to remind you take break "Advanced version reminder app in python directory".
  
-22  Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
+22  Number_game.py - it allows you to guess a number in 3 attempts.
  
-23  Qrcode_Generator.py - generates QR code for any link/website.
+23  Organizer.py - it organizes the text file in alphabatical order.
  
-24  Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
+24  Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
  
-25  Roman_to_Decimal.py - it converts roman numbers in decimal.
+25  Perfect_number.py - the sum of all possible divisible of the number is equal to number. 1 + 2 + 3 == 6 and 6 is divisible by 123.
  
-26  Screen_Recorder.py - records the screen activity and saves in mp4 file format.
+26  Qrcode_Generator.py - generates QR code for any link/website.
  
-27  Secure_password_generator.py - it generates a random combination of secure password.
+27  Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
  
-28  Selection_sort.py - it goes through charcter by charcter and swaps them based on lower and higher number.
+28  Roman_to_Decimal.py - it converts roman numbers in decimal.
  
-29  Speech_to_Text.py - it converts speech into text format.
+29  Screen_Recorder.py - records the screen activity and saves in mp4 file format.
  
-30  StickyNotes.py - it converts xlsx file and shows the upcoming tasks.
+30  Secure_password_generator.py - it generates a random combination of secure password.
  
-31  StickyNotes_GUI.py - it converts xlsx file and shows the upcoming tasks in interactive user interface.
+31  Selection_sort.py - it goes through charcter by charcter and swaps them based on lower and higher number.
  
-32  StopWatch.py - it creates a countdown of seconds like a timer.
+32  Speech_to_Text.py - it converts speech into text format.
  
-33  VoiceRecorder.py - it records voice for duration entered via system argument
+33  StickyNotes.py - it converts xlsx file and shows the upcoming tasks.
  
-34  WordClouds_bg.py - creates a background image from text, which higlights different text as cloud.
+34  StickyNotes_GUI.py - it converts xlsx file and shows the upcoming tasks in interactive user interface.
  
-35  bracode.py - create a barcode from numeric data.
+35  StopWatch.py - it creates a countdown of seconds like a timer.
  
-36  bubble_sort.py - it goes from bottom to top in reverse order pushes(swaps) lower charcter upwards and sorts it.
+36  VoiceRecorder.py - it records voice for duration entered via system argument
  
-37  captcha_generator.py - generates captcha easy and difficult both .
+37  WordClouds_bg.py - creates a background image from text, which higlights different text as cloud.
  
-38  password_authenticator.py - it authenticates the entered password via user based on database entry.
+38  bracode.py - create a barcode from numeric data.
  
-39  pdf_to_speech.py - it reads out content of the pdf file.
+39  bubble_sort.py - it goes from bottom to top in reverse order pushes(swaps) lower charcter upwards and sorts it.
  
-40  pdf_to_word.py - converts pdf files into word.
+40  captcha_generator.py - generates captcha easy and difficult both .
  
-41  png_to_jpg.py - converts png file into jpeg format
+41  password_authenticator.py - it authenticates the entered password via user based on database entry.
  
-42  random_card.py - it selects a random card from the deck of 52 cards
+42  pdf_to_speech.py - it reads out content of the pdf file.
  
-43  vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
+43  pdf_to_word.py - converts pdf files into word.
  
-44  weather.py - generates real-time weather information based on location and also provide next 5 days weather forecast.
+44  png_to_jpg.py - converts png file into jpeg format
  
-45  word_to_pdf.py - convertes word/text file in pdf format.
+45  prime_finder.py - it findes the prime numbers smaller than given number.
+ 
+46  random_card.py - it selects a random card from the deck of 52 cards
+ 
+47  vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
+ 
+48  weather.py - generates real-time weather information based on location and also provide next 5 days weather forecast.
+ 
+49  word_to_pdf.py - convertes word/text file in pdf format.
  

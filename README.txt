@@ -43,3 +43,9 @@
  Age_Calculator.py - based on the birthdate it return age.
  Selection_sort.py - it goes through charcter by charcter and swaps them based on lower and higher number.
  bubble_sort.py - it goes from bottom to top in reverse order pushes(swaps) lower charcter upwards and sorts it.
+ Insertion_sort.py - it starts the first loop in right direction and second loop will go in left from the chosen point.
+ Perfect_number.py - the sum of all possible divisible of the number is equal to number. 1 + 2 + 3 == 6 and 6 is divisible by 123.
+ prime_finder.py - it findes the prime numbers smaller than given number.
+ Number_game.py - it allows you to guess a number in 3 attempts.
+
+
