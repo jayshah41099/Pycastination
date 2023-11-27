@@ -52,4 +52,9 @@
  fibonacci_generator.py - it generates the fibonacci sequence based on first two integers and length of the sequence.
  factors_generator.py - it generates factors of enterd number.
  countdown_timer.py - it is a countdown timer and alerts.
-
+ Mortgage_Calculator.py - it calculates you monthly payment, each month and yearly principal and interest of the mortage loan.
+ word_permutation.py - it generates permutation of enterd string.
+ Swap.py - it swaps the first element with last element entered as input.
+ Zip_address.py - it generates address from the zipcode.
+ Disarium_Num.py - it checks if the Disarium number is entered.
+ 
