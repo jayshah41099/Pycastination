@@ -48,7 +48,7 @@
  prime_finder.py - it findes the prime numbers smaller than given number.
  Number_game.py - it allows you to guess a number in 3 attempts.
  Password_protected.py - it createes password protected pdf file.
- Armstrong_Num.py - it is a number whose sum of the powers(= total digits) of its digits equals the number. 153 = 1^3 + 5^3 + 3^3.
+ Armstrong_Num.py - A number whose sum of the powers(= total digits) of its digits equals the number. 153 = 1^3 + 5^3 + 3^3.
  fibonacci_generator.py - it generates the fibonacci sequence based on first two integers and length of the sequence.
  factors_generator.py - it generates factors of enterd number.
  countdown_timer.py - it is a countdown timer and alerts.
@@ -57,4 +57,11 @@
  Swap.py - it swaps the first element with last element entered as input.
  Zip_address.py - it generates address from the zipcode.
  Disarium_Num.py - it checks if the Disarium number is entered.
- 
+ Image_watermarking.py - it watermarks the image with given text.
+ Url_shortner.py - it shortens the url.
+ Unzip.py - it unzip the zip folder.
+ Empty_bin.py - it empties your windows recycle bin.
+ List_quiz_prep.py - it is a set of questions around list topic
+ Photo_locker.py - it locks your photo using generated key.
+ Photo_unlocker.py - it unlocks your photo using the generated key.
+ Active_worker.py - it keeps moving your cursor for you to look like active.
