@@ -1,6 +1,6 @@
-  # pycastination - Procastination with python
+# pycastination - Procastination with python
 
-1   Active_worker.py - it keeps moving your cursor for you to look like active.
+1  Active_worker.py - it keeps moving your cursor for you to look like active.
  
 2  Age_Calculator.py - based on the birthdate it return age.
  
@@ -44,93 +44,85 @@
  
 22  Image_watermarking.py - it watermarks the image with given text.
  
-23  Insertion_sort.py - it starts the first loop in right direction and second loop will go in left from the chosen point.
+23  LCM.py - it finds out least common number, which is divisible by both entered numbers.
  
-24  LCM.py - it finds out least common number, which is divisible by both entered numbers.
+24  Lang_Detect_Translate.py - it detects the language other than english and translates into english.
  
-25  Lang_Detect_Translate.py - it detects the language other than english and translates into english.
+25  Laptop_notification.py - simple notification to remind you take break "Advanced version reminder app in python directory".
  
-26  Laptop_notification.py - simple notification to remind you take break "Advanced version reminder app in python directory".
+26  Mortgage_Calculator.py - it calculates you monthly payment, each month and yearly principal and interest of the mortage loan.
  
-27  List_quiz_prep.py - it is a set of questions around list topic
+27  Number_game.py - it allows you to guess a number in 3 attempts.
  
-28  Mortgage_Calculator.py - it calculates you monthly payment, each month and yearly principal and interest of the mortage loan.
+28  Organizer.py - it organizes the text file in alphabatical order.
  
-29  Number_game.py - it allows you to guess a number in 3 attempts.
+29  Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
  
-30  Organizer.py - it organizes the text file in alphabatical order.
+30  Password_protected.py - it createes password protected pdf file.
  
-31  Palindrome.py - it identifies the word that spells same from forward or backword - Palindrome Words
+31  Perfect_number.py - the sum of all possible divisible of the number is equal to number. 1 + 2 + 3 == 6 and 6 is divisible by 123.
  
-32  Password_protected.py - it createes password protected pdf file.
+32  Photo_locker.py - it locks your photo using generated key.
  
-33  Perfect_number.py - the sum of all possible divisible of the number is equal to number. 1 + 2 + 3 == 6 and 6 is divisible by 123.
+33  Photo_unlocker.py - it unlocks your photo using the generated key.
  
-34  Photo_locker.py - it locks your photo using generated key.
+34  Qrcode_Generator.py - generates QR code for any link/website.
  
-35  Photo_unlocker.py - it unlocks your photo using the generated key.
+35  Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
  
-36  Qrcode_Generator.py - generates QR code for any link/website.
+36  Roman_to_Decimal.py - it converts roman numbers in decimal.
  
-37  Repeat_Char_Counter.py - it counts charcter occorences in the single statement.
+37  Screen_Recorder.py - records the screen activity and saves in mp4 file format.
  
-38  Roman_to_Decimal.py - it converts roman numbers in decimal.
+38  Secure_password_generator.py - it generates a random combination of secure password.
  
-39  Screen_Recorder.py - records the screen activity and saves in mp4 file format.
+39  Speech_to_Text.py - it converts speech into text format.
  
-40  Secure_password_generator.py - it generates a random combination of secure password.
+40  StickyNotes.py - it converts xlsx file and shows the upcoming tasks.
  
-41  Selection_sort.py - it goes through charcter by charcter and swaps them based on lower and higher number.
+41  StickyNotes_GUI.py - it converts xlsx file and shows the upcoming tasks in interactive user interface.
  
-42  Speech_to_Text.py - it converts speech into text format.
+42  StopWatch.py - it creates a countdown of seconds like a timer.
  
-43  StickyNotes.py - it converts xlsx file and shows the upcoming tasks.
+43  Swap.py - it swaps the first element with last element entered as input.
  
-44  StickyNotes_GUI.py - it converts xlsx file and shows the upcoming tasks in interactive user interface.
+44  Unzip.py - it unzip the zip folder.
  
-45  StopWatch.py - it creates a countdown of seconds like a timer.
+45  Url_shortner.py - it shortens the url.
  
-46  Swap.py - it swaps the first element with last element entered as input.
+46  VoiceRecorder.py - it records voice for duration entered via system argument
  
-47  Unzip.py - it unzip the zip folder.
+47  WordClouds_bg.py - creates a background image from text, which higlights different text as cloud.
  
-48  Url_shortner.py - it shortens the url.
+48  Zip_address.py - it generates address from the zipcode.
  
-49  VoiceRecorder.py - it records voice for duration entered via system argument
+49  bracode.py - create a barcode from numeric data.
  
-50  WordClouds_bg.py - creates a background image from text, which higlights different text as cloud.
+50  captcha_generator.py - generates captcha easy and difficult both .
  
-51  Zip_address.py - it generates address from the zipcode.
+51  countdown_timer.py - it is a countdown timer and alerts.
  
-52  bracode.py - create a barcode from numeric data.
+52  factors_generator.py - it generates factors of enterd number.
  
-53  bubble_sort.py - it goes from bottom to top in reverse order pushes(swaps) lower charcter upwards and sorts it.
+53  fibonacci_generator.py - it generates the fibonacci sequence based on first two integers and length of the sequence.
  
-54  captcha_generator.py - generates captcha easy and difficult both .
+54  password_authenticator.py - it authenticates the entered password via user based on database entry.
  
-55  countdown_timer.py - it is a countdown timer and alerts.
+55  pdf_to_speech.py - it reads out content of the pdf file.
  
-56  factors_generator.py - it generates factors of enterd number.
+56  pdf_to_word.py - converts pdf files into word.
  
-57  fibonacci_generator.py - it generates the fibonacci sequence based on first two integers and length of the sequence.
+57  png_to_jpg.py - converts png file into jpeg format
  
-58  password_authenticator.py - it authenticates the entered password via user based on database entry.
+58  prime_finder.py - it findes the prime numbers smaller than given number.
  
-59  pdf_to_speech.py - it reads out content of the pdf file.
+59  random_card.py - it selects a random card from the deck of 52 cards
  
-60  pdf_to_word.py - converts pdf files into word.
+60  vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
  
-61  png_to_jpg.py - converts png file into jpeg format
+61  weather.py - generates real-time weather information based on location and also provide next 5 days weather forecast.
  
-62  prime_finder.py - it findes the prime numbers smaller than given number.
+62  word_permutation.py - it generates permutation of enterd string.
  
-63  random_card.py - it selects a random card from the deck of 52 cards
- 
-64  vulnerability_scanner.py - it scans url for potential IDOR, SQL Injection or CSRF vulnerabilities.
- 
-65  weather.py - generates real-time weather information based on location and also provide next 5 days weather forecast.
- 
-66  word_permutation.py - it generates permutation of enterd string.
- 
-67  word_to_pdf.py - convertes word/text file in pdf format.
+63  word_to_pdf.py - convertes word/text file in pdf format.
  
