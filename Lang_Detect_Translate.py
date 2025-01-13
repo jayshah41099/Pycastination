@@ -1,6 +1,6 @@
 # requirement : pip install googletrans
 # command : python3 Lang_Detect_Translate.py 'Hello! C’est gratuit.'
-# it can detect language other tahn english in a sentence. it also translate. 
+# it can detect language other than english in a sentence. it also translate. 
 
 from googletrans import Translator
 import sys
