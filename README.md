@@ -126,5 +126,5 @@
  
 63  word_to_pdf.py - convertes word/text file in pdf format.
 
-64 PianoTunes.py - It converts lyrics into piano tunes. it takes lyrics.txt file and creates meloady.wav of piano tunes.
+64 PianoTunes.py - It converts lyrics into piano tunes. It takes the lyrics.txt file and creates melody.wav of piano tunes.
  
